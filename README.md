@@ -7,6 +7,9 @@ pdf_document: default
 author: "Didac Busquets"
 ---
 
+Getting and Cleaning Data: Course Project
+=========================================
+
 This report has been semi-automatically generated using the ```stitch()``` R function (though some hand editing was necessary). The codebook describing the variables is CodeBook.txt.
 
 ## Reading the data 
